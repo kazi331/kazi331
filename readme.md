@@ -99,10 +99,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+This+is+Kazi+Shariful+Islam;I'm+a+passionate+MERN+Stack+Developer;I+build+Web+Application+with+React+&+Node;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="54%" " src="https://github-readme-stats.vercel.app/api?username=kazi331&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alvarez github stats" /> 
   <img width="45%" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi331&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div> -->
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a452e6c7-8f5a-49cc-be66-322b50db9265.jpeg?v=1785354514)](https://www.boot.dev/certificates/a452e6c7-8f5a-49cc-be66-322b50db9265)
 </details>
 
 
